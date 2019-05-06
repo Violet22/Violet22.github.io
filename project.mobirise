@@ -1173,7 +1173,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "With Chief Executive Officer (CEO) of Great Eastern Takaful, Mr Shahrul Azlan Shahriman",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
@@ -1251,20 +1251,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "With Vice President and Head of Agency Distribution Great Eastern Takaful, Puan&nbsp;Norizan Yahya",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/background8.jpg",
-                "thumb": "@THEME_PATH@/components/_images/background8.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           }
